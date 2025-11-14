@@ -26,10 +26,8 @@ export default function MathClock() {
 
   return (
     <div className="w-full h-screen bg-black flex flex-col justify-center items-center text-green-400 font-mono relative overflow-hidden">
-      {/* پس‌زمینه‌ای با خطوط نرم و نویز سبک */}
       <div className="absolute inset-0 opacity-10 bg-[radial-gradient(circle,rgba(0,255,200,0.1)_0%,transparent_70%)]"></div>
       <Image src={'/1298129.jpg'} alt={'back'} width={'1080'} height={1080} className="absolute z-0 opacity-20"/>
-      {/* افکت درخشش متن */}
       <style jsx>{`
         .glow {
           text-shadow:
