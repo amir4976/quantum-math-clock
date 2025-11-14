@@ -21,7 +21,7 @@ A futuristic digital clock powered by **mathematical formulas** and **Next.js**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/quantum-math-clock.git
+git clone https://github.com/amir4976/quantum-math-clock.git
 cd quantum-math-clock
 
 # Install dependencies
